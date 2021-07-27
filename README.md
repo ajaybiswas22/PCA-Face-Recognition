@@ -67,9 +67,9 @@ To start Jupyter type
     .
     ├── src                     # Source files
     │   ├── s1
-         │   ├── 1.pgm
-         │   ├──  ...
-         │   ├── 10.pgm
+    │   │   ├── 1.pgm
+    │   │   ├──  ...
+    │   │   ├── 10.pgm
     │   ├── s2
     │   ├── ...
     │   ├── s40
